@@ -1,0 +1,56 @@
+/* Style the top navigation bar */
+.navbar {
+    display: flex;
+    background-color: rgb(45, 89, 136);
+    font-family: "Funkhouse";
+}
+
+/* Style the navigation bar links */
+.navbar a {
+    font-family: "Funkhouse";
+    color: rgb(255, 255, 255);
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+/* Change color on hover */
+.navbar a:hover {
+    font-family: "Funkhouse";
+    background-color: rgb(255, 255, 255);
+    color: rgb(88, 164, 245);
+}
+
+body {
+    font-family: "Funkhouse";
+    color: white;
+    background-color: rgb(88, 164, 245);
+}
+
+.banner {
+    font-family: "Funkhouse";
+    background-color: rgb(88, 164, 245);
+    text-align: center;
+}
+
+h1,
+h2 {
+    font-family: "Funkhouse";
+    color: rgb(255, 255, 255);
+    margin-top: 0;
+}
+
+.subpage-link {
+    font-family: "Funkhouse";
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* #image img {
+    margin-left: center;
+    margin-right: center;
+    display: block;
+    border: royalblue dashed 20px;
+} */
